@@ -1,0 +1,14 @@
+{
+	"category" : "OSMMaps-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSMMapnikTileSourceTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

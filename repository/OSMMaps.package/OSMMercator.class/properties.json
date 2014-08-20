@@ -1,0 +1,14 @@
+{
+	"category" : "OSMMaps-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FrancoisStephany 8/20/2014 00:56",
+	"instvars" : [
+		 ],
+	"name" : "OSMMercator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

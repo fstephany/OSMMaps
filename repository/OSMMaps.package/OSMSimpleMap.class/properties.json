@@ -1,0 +1,14 @@
+{
+	"category" : "OSMMaps-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tiles" ],
+	"name" : "OSMSimpleMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

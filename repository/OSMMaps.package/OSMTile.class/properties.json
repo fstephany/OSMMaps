@@ -1,0 +1,17 @@
+{
+	"category" : "OSMMaps-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FrancoisStephany 8/19/2014 23:17",
+	"instvars" : [
+		"x",
+		"y",
+		"zoomLevel",
+		"image" ],
+	"name" : "OSMTile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "OSMMaps-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FrancoisStephany 8/19/2014 23:49",
+	"instvars" : [
+		 ],
+	"name" : "OSMMapnikTileSource",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
