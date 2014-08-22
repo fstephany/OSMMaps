@@ -6,6 +6,6 @@ baseline: spec
 		spec project: 'Roassal2' with: [
 				spec
 					className: #ConfigurationOfRoassal2;
-					versionString: #'development';
+					version: #development;
 					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main/' ].
 		spec package: #OSMMaps ].
