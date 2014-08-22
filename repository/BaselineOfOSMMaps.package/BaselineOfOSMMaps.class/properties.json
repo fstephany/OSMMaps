@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfOSMMaps",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FrancoisStephany 8/22/2014 16:37",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfOSMMaps",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

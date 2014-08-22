@@ -4,10 +4,32 @@ OSMMaps is a *very* simple wrapper around OpenStreetMaps.
 
 ![map opened on the city of Mons, Belgium](/screenshot.png "City of Mons")
 
+
+## Installation
+
+Install is quite straightforward:
+
+    Metacello new
+      baseline: 'OSMMaps';
+      repository: 'github://fstephany/OSMMaps/repository';
+      load.
+
+You can add OSMMaps as a dependency on your project by adding the following
+to your metacello configuration:
+
+    spec baseline: 'OSMMaps' with: [
+        spec repository: 'github://fstephany/OSMMaps/repository'].
+
+Beware that this will load the latest version in Master.
+
+As OSMMaps is still a moving target at this moment, there are no official
+release yet. Expect to have broken stuff regularly.
+
 ## Roassal Example
 
-Simply execute:
+Once loaded, simply execute:
 
     OSMTile monsExample
 
-to open a map on top of the city of Mons
+to open a map on top of the city of Mons. You can drag the map to navigate
+around the city.
