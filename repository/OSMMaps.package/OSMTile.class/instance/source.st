@@ -1,3 +1,3 @@
-as yet unclassified
+bitmap
 source
 	^OSMMapnikTileSource new.

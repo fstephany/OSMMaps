@@ -1,7 +1,8 @@
 tests
 testPixelsFromLatitudeZoomLevel
 	"we cannot go out of bounds"
-	self assert: (OSMMercator pixelsFromLatitude: 100  zoomLevel: 1) equals: (OSMMercator maxLatitude).
+	self assert: (OSMMercator pixelsFromLatitude: 100  zoomLevel: 1) equals: 
+	(OSMMercator pixelsFromLatitude: (OSMMercator maxLatitude)  zoomLevel: 1).
 
 	"City of Mons -> lat: 50.45, lng: 3.95
 	https://c.tile.openstreetmap.org/14/8371/5524.png"

@@ -1,9 +1,10 @@
 {
 	"class" : {
-		 },
+		"withLatitude:longitude:zoomLevel:" : "FrancoisStephany 8/22/2014 12:57" },
 	"instance" : {
-		"image" : "FrancoisStephany 8/19/2014 23:30",
+		"image" : "FrancoisStephany 8/21/2014 18:13",
 		"source" : "FrancoisStephany 8/19/2014 23:36",
+		"tileSize" : "FrancoisStephany 8/22/2014 13:00",
 		"x" : "FrancoisStephany 8/19/2014 23:24",
 		"x:" : "FrancoisStephany 8/19/2014 23:23",
 		"y" : "FrancoisStephany 8/19/2014 23:24",
