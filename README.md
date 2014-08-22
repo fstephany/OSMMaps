@@ -58,6 +58,5 @@ The easiest way to get started is to load Roassal2 and use the following:
 
 ## TODO
 
-- Convert lat/lng for a zoom level into tile coordinates
 - Detect click on the map and display lat/lng
 - Implement zoom in the Roassal visualization
