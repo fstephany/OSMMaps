@@ -33,3 +33,8 @@ Once loaded, simply execute:
 
 to open a map on top of the city of Mons. You can drag the map to navigate
 around the city.
+
+
+## Interesting Projects
+
+* [http://vector-map.mapzen.com/#mapzen,40.708401305664914,-74.00626659393312,16&projection=PROJECTION_POPUP&lighting=LIGHTING_POINT&effect=EFFECT_COLOR_BLEED&building_height=1&light_azimuth=1&light_elevation=1&lightIntensity=0.7&lightAmbient=0.45&lightHeight=0.35&heightLimit=0.45&water_ocean=#bbd8f5&earth=#787878&landuse=#a4fca4&water_areas=#bbd8f5&roads=#ffffff&buildings=#a3a3a3](http://vector-map.mapzen.com/#mapzen,40.708401305664914,-74.00626659393312,16&projection=PROJECTION_POPUP&lighting=LIGHTING_POINT&effect=EFFECT_COLOR_BLEED&building_height=1&light_azimuth=1&light_elevation=1&lightIntensity=0.7&lightAmbient=0.45&lightHeight=0.35&heightLimit=0.45&water_ocean=#bbd8f5&earth=#787878&landuse=#a4fca4&water_areas=#bbd8f5&roads=#ffffff&buildings=#a3a3a3)
